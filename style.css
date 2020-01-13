@@ -14,10 +14,36 @@
     background-color: rgb(211,211,211);
 }
 
-.block1 {
+.top-float {
+    background-color: blanchedalmond;
+    margin-left: 45%;
+}
+
+.block1, .block2 {
     display: flex;
 }
 
-.article-line1 {
+#article1-line1, 
+#article2-line1,
+#article1-line2,
+#article2-line2 {
     border: 1px solid black;
+    flex-grow: 6;
+    height: 700px;
+}
+
+#article1-line1 {
+    background-color: rgb(240,240,240);
+}
+
+#article2-line1 {
+    background-color: rgb(216,216,216);
+}
+
+#article1-line2 {
+    background-color: gray;
+}
+
+#article2-line2 {
+    background-color: rgb(240,240,240);
 }
