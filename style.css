@@ -28,6 +28,7 @@ footer {
     margin-left: 45%;
 }
 .personal-article3,
+.personal-article2,
 .block1, 
 .block2, 
 .block2-1,
@@ -135,7 +136,7 @@ footer {
 
 .img-story {
     padding: 10px;
-    background-color: #eee;
+    background-color: #999;
     width: 100%;
 }
 
