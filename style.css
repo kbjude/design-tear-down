@@ -24,7 +24,9 @@
 .block2-1,
 .block2-2,
 .block2-3,
-.block2-4  {
+.weeks-personality,
+.block2-4,
+.personal-article {
     display: flex;
 }
 
@@ -108,4 +110,50 @@
     width: 90%;
     height: 300px;
     border-radius: 7px;
+    background-color: grey;
+}
+
+.divide {
+    width: auto;
+    height: 60px;
+
+}
+
+.independent-block {
+    width: auto;
+    height: 100px;
+    background-color:gray;
+}
+
+.img-story {
+    padding: 10px;
+    background-color: rgb(240, 236, 236);
+    width: 100%;
+}
+
+#image {
+    background-color: gray;
+}
+
+.personal-article {
+    display: flex;
+}
+
+#article-desc1,
+#article-desc2,
+#article-desc3,
+#article-desc4 {
+    display: flex;
+    flex-grow: 4;
+    height: 120px;
+}
+
+#article-desc4,
+#article-desc1 {
+    background-color: gray;
+}
+
+#article-desc3,
+#article-desc2 {
+    background-color: rgb(167, 164, 164);
 }
