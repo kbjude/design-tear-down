@@ -1,166 +1,159 @@
 footer {
-    background-color: #888;
-    height: 300px;
-    margin: 0 auto;
+  background-color: #888;
+  height: 300px;
+  margin: 0 auto;
 }
 
-
 .top-head {
-    display: flex;
-    background-color: #888;
-    height: 120px;
-    padding: 50px 30px 5px;
+  display: flex;
+  background-color: #888;
+  height: 120px;
+  padding: 50px 30px 5px;
 }
 
 .nav-item {
-    color: #fff;
-    display: flex;
-    padding: 10px 10px 5px;
-    width: 60px;
-    height: 40px;
-    flex-grow: 5;
-    background-color:#888;
+  color: #fff;
+  display: flex;
+  padding: 10px 10px 5px;
+  width: 60px;
+  height: 40px;
+  flex-grow: 5;
+  background-color: #888;
 }
 
 .top-float {
-    background-color: gray;
-    color: white;
-    margin-left: 45%;
-    width: 160px;
-    position: absolute;
-    margin-top: 20px;
-    text-align: center;
-    font-size: 16px;
+  background-color: gray;
+  color: white;
+  margin-left: 45%;
+  width: 160px;
+  position: absolute;
+  margin-top: 20px;
+  text-align: center;
+  font-size: 16px;
 }
 
 .personal-article3,
 .personal-article2,
-.block1, 
-.block2, 
+.block1,
+.block2,
 .block2-1,
 .block2-2,
 .block2-3,
 .weeks-personality,
 .block2-4,
 .personal-article {
-    display: flex;
+  display: flex;
 }
 
 .block2-2 {
-    margin: 0 0 0 170px;
+  margin: 0 0 0 170px;
 }
 
-
-#article1-line1, 
+#article1-line1,
 #article2-line1,
 #article1-line2,
 #article2-line2 {
-    background-color: #555;
-    flex-grow: 6;
-    flex-wrap: wrap;
-    height: 500px;
+  background-color: #555;
+  flex-grow: 6;
+  flex-wrap: wrap;
+  height: 500px;
 }
 
 #article1-line1 {
-    background-color: #777;
+  background-color: #777;
 }
 
 #article2-line1 {
-    background-color: #666;
+  background-color: #666;
 }
 
 #article1-line2 {
-    background-color: #888;
+  background-color: #888;
 }
 
 #article2-line2 {
-    background-color:#999;
+  background-color: #999;
 }
+
 #article1-line4,
 #article2-line4,
 #article3-line4,
-#article1-line3, 
+#article1-line3,
 #article2-line3,
 #article3-line3 {
-    background-color: #fff;
-    display: flex;
-    flex-grow: 5;
-    height: 250px;
+  background-color: #fff;
+  display: flex;
+  flex-grow: 5;
+  height: 250px;
 }
 
-.invisible-cont {
-    color: rgb(194, 189, 189);
-}
-
-#article1-line3, 
+#article1-line3,
 #article1-line4 {
-    background-color: rgb(119, 114, 114);
+  background-color: rgb(119, 114, 114);
 }
 
 #article2-line3,
 #article2-line4 {
-    background-color: #555;
+  background-color: #555;
 }
 
-#article3-line3, 
+#article3-line3,
 #article3-line4 {
-    background-color: #aaa;
+  background-color: #aaa;
 }
 
 #article1-2-2,
 #article2-2-2,
 #article3-2-2 {
-    display: flex;
-    height: 600px;
-    flex-grow: 4;
-    
+  display: flex;
+  height: 600px;
+  flex-grow: 4;
 }
 
 #article1-2-2 {
-    background-color: white; 
+  background-color: white;
 }
 
 #article2-2-2 {
-    border-radius: 7px;
-    background-color: #999;
+  border-radius: 7px;
+  background-color: #999;
 }
 
 #article3-2-2 {
-    background-color:#888;
+  background-color: #888;
 }
 
 .smashing-tv {
-    margin: 0 60px;
-    width: 90%;
-    height: 300px;
-    border-radius: 7px;
-    background-color: grey;
+  margin: 0 60px;
+  width: 90%;
+  height: 300px;
+  border-radius: 7px;
+  background-color: grey;
 }
 
 .divide {
-    width: auto;
-    height: 60px;
-
+  width: auto;
+  height: 60px;
 }
 
 .independent-block {
-    width: auto;
-    height: 100px;
-    background-color:gray;
+  width: auto;
+  height: 100px;
+  background-color: gray;
 }
 
 .img-story {
-    padding: 10px;
-    background-color: #999;
-    width: 100%;
+  padding: 10px;
+  background-color: #999;
+  width: 100%;
 }
 
 #image {
-    background-color: gray;
+  background-color: gray;
 }
 
 .personal-article {
-    display: flex;
+  display: flex;
 }
 
 #article-desc1,
@@ -169,47 +162,47 @@ footer {
 #article-desc4,
 #article-desc5,
 #article-desc6 {
-    display: flex;
-    flex-grow: 4;
-    height: 120px;
+  display: flex;
+  flex-grow: 4;
+  height: 120px;
 }
 
 #article-desc4,
 #article-desc1 {
-    background-color: gray;
+  background-color: gray;
 }
 
 #article-desc3,
 #article-desc2 {
-    background-color: #999;
+  background-color: #999;
 }
 
 #article-desc5 {
-    display: flex;
-    background-color: #555;
+  display: flex;
+  background-color: #555;
 }
 
 #article-desc6 {
-    flex-grow: 4;
-    background-color: #999;
+  flex-grow: 4;
+  background-color: #999;
 }
 
 #article-desclast {
-    background-color: #555;
-    color: #fff;
-    height: 300px;
-    align-items: center;
+  background-color: #555;
+  color: #fff;
+  height: 300px;
+  align-items: center;
 }
 
 .article-guides {
-    display: flex;
+  display: flex;
 }
 
 #article-guide1,
 #article-guide2,
-#article-guide3, 
+#article-guide3,
 #article-guide4 {
-    height: 500px;
-    width: 50%;
-    background-color: #555;
+  height: 500px;
+  width: 50%;
+  background-color: #555;
 }
