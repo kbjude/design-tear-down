@@ -2,7 +2,7 @@
 
 > A visual heat map of the www.smashingmagazine.com homepage.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./screenshot.png)
 
 Aim of the project is for collaborative learning and continous practice of HTML5 and CSS3. Particular focus was on design hierarchy.
 
