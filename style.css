@@ -88,6 +88,10 @@ footer {
     height: 250px;
 }
 
+.invisible-cont {
+    color: rgb(194, 189, 189);
+}
+
 #article1-line3, 
 #article1-line4 {
     background-color: rgb(119, 114, 114);
