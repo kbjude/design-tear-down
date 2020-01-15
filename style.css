@@ -187,7 +187,8 @@ footer {
   background-color: #999;
 }
 
-#article-desclast {
+#article-desclast,
+#article-desclast1 {
   background-color: #555;
   color: #fff;
   height: 300px;
