@@ -13,7 +13,7 @@ Aim of the project is for collaborative learning and continous practice of HTML5
 
 ## Live Demo
 
-[Live Demo Link](https://kbjude.github.io/design-tear-down)
+[Live Demo Link](https://rawcdn.githack.com/kbjude/design-tear-down/e06d35383c18ea1298c55ec042d0e4f9fdb62966/index.html)
 
 
 ## To Install and Run ...
